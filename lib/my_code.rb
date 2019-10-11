@@ -1,4 +1,4 @@
-def map_to_negativize(source_array)
+def map(source_array)
   answer = source_array.map { |n|   -n  }
 end
 
